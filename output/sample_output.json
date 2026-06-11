@@ -1,0 +1,23 @@
+{
+  "decisions": [
+    "Project will be a web application",
+    "Testing will be conducted on Sunday"
+  ],
+  "action_items": [
+    {
+      "task": "Complete frontend development",
+      "owner": "Rahul",
+      "deadline": "Friday"
+    },
+    {
+      "task": "Create presentation slides",
+      "owner": "Priya",
+      "deadline": "Thursday"
+    },
+    {
+      "task": "Deploy the application",
+      "owner": "Aditya",
+      "deadline": "Saturday"
+    }
+  ]
+}

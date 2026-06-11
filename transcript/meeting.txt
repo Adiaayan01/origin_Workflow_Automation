@@ -1,0 +1,29 @@
+Aditya:
+Let's discuss preparation for the college hackathon.
+
+Rahul:
+I think we should build a web-based solution.
+
+Priya:
+Agreed. It will be easier to demo.
+
+Aditya:
+Let's finalize the web application approach.
+
+Decision:
+Project will be web-based.
+
+Rahul:
+I will complete frontend development by Friday.
+
+Priya:
+I will create presentation slides by Thursday.
+
+Aditya:
+I will handle deployment by Saturday.
+
+Rahul:
+We should conduct testing on Sunday.
+
+Decision:
+Testing scheduled for Sunday.

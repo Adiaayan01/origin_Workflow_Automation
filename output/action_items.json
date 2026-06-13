@@ -1,0 +1,32 @@
+{
+    "decisions": [
+        "The project will be built as a web application.",
+        "Main features to include are resume analysis, interview preparation, and application tracking.",
+        "Resume analysis should be the highest priority feature.",
+        "For the MVP, focus only on resume analysis and interview preparation.",
+        "Application tracking can be added later if time permits.",
+        "Testing will be scheduled for Monday."
+    ],
+    "action_items": [
+        {
+            "task": "Complete the frontend development.",
+            "owner": "Rahul",
+            "deadline": "Friday"
+        },
+        {
+            "task": "Work on and have the backend APIs ready.",
+            "owner": "Aditya",
+            "deadline": "Saturday"
+        },
+        {
+            "task": "Prepare the presentation slides.",
+            "owner": "Aditya",
+            "deadline": "Sunday"
+        },
+        {
+            "task": "Do testing before the demo.",
+            "owner": "Unassigned",
+            "deadline": "Monday"
+        }
+    ]
+}

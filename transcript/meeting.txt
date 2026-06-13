@@ -1,29 +1,55 @@
-Aditya:
-Let's discuss preparation for the college hackathon.
+(0:01) Aditya: Hey Rahul, can you hear me?
 
-Rahul:
-I think we should build a web-based solution.
+(0:03) Rahul: Yeah, I can hear you. Go ahead.
 
-Priya:
-Agreed. It will be easier to demo.
+(0:05) Aditya: Alright. Let's discuss the placement assistant project and figure out who will handle what.
 
-Aditya:
-Let's finalize the web application approach.
+(0:11) Rahul: Sure. I was thinking we should build it as a web application. It'll be much easier to demonstrate during the presentation.
 
-Decision:
-Project will be web-based.
+(0:19) Aditya: Yeah, that makes sense. A web app would be easier for the demo.
 
-Rahul:
-I will complete frontend development by Friday.
+(0:24) Rahul: Exactly.
 
-Priya:
-I will create presentation slides by Thursday.
+(0:26) Aditya: So what features should we include?
 
-Aditya:
-I will handle deployment by Saturday.
+(0:29) Rahul: I think resume analysis, interview preparation, and application tracking are the main ones.
 
-Rahul:
-We should conduct testing on Sunday.
+(0:38) Aditya: Agreed. Out of those, resume analysis should probably be the highest priority.
 
-Decision:
-Testing scheduled for Sunday.
+(0:44) Rahul: Yeah, definitely.
+
+(0:46) Aditya: For the MVP though, let's focus only on resume analysis and interview preparation.
+
+(0:54) Rahul: Sounds good. We can add application tracking later if we have time.
+
+(1:00) Aditya: Perfect.
+
+(1:02) Rahul: I can take ownership of the frontend and UI development.
+
+(1:07) Aditya: Great. Do you think you can finish the frontend by Friday?
+
+(1:12) Rahul: Yeah, that's doable. I'll complete the frontend development by Friday.
+
+(1:18) Aditya: Awesome. Then I'll work on the backend APIs and have them ready by Saturday.
+
+(1:26) Rahul: Nice.
+
+(1:28) Rahul: We should probably prepare some presentation slides for the final demo as well.
+
+(1:34) Aditya: Good point. I'll take care of the presentation slides and finish them by Sunday.
+
+(1:42) Rahul: Sounds good.
+
+(1:44) Rahul: One more thing—we should do testing before the demo.
+
+(1:49) Aditya: Absolutely. Let's schedule testing for Monday.
+
+(1:54) Rahul: Yeah, Monday works.
+
+(1:57) Aditya: Alright, just to summarize: we're building a web application, the MVP will include resume analysis and interview preparation, you'll complete the frontend by Friday, I'll finish the backend APIs by Saturday, I'll prepare the slides by Sunday, and we'll do testing on Monday.
+
+(2:15) Rahul: Yep, that covers everything.
+
+(2:18) Aditya: Great. Thanks, everyone.
+
+(2:20) Rahul: Thanks.
